@@ -44,12 +44,3 @@ The main goal of this case study is to analyze whether students are truly **digi
 - **Length:** 10–14 pages  
 - **Submission Platform:** VITyarthi  
 
----
-
-## ⚠️ Note  
-This project is an original academic submission. The analysis reflects personal understanding and critical thinking based on the given case study.
-
----
-
-## 📬 Contact  
-For any queries or discussions, feel free to connect.
