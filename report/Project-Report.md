@@ -6,9 +6,9 @@
 
 | Field            | Details                          |
 |------------------|----------------------------------|
-| **Name**         | Sakcham Shaw                     |
-| **Reg. No.**     | 25MEI10005                       |
-| **Branch**       | B.Tech – CSE                     |
+| **Name**         | Anadi Rathore                    |
+| **Reg. No.**     | 25MIM10020                       |
+| **Branch**       | Mtech.AI                         |
 | **Year**         | First Year (2025–2026)           |
 | **Course Code**  | CSE0001 – Digital Literacy       |
 | **Date**         | March 2026                       |
