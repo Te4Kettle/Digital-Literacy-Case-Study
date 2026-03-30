@@ -72,14 +72,4 @@ digital-literacy-project/
 
 ---
 
-## Useful Links
 
-| Platform       | URL                          |
-|----------------|------------------------------|
-| GitHub         | github.com                   |
-| LinkedIn       | linkedin.com                 |
-| Kaggle         | kaggle.com                   |
-| HackerRank     | hackerrank.com               |
-| Google Forms   | forms.google.com             |
-| Cyber Crime Portal | cybercrime.gov.in        |
-| Cyber Helpline | 1930 (24x7)                  |
