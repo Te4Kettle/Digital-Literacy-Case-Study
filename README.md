@@ -40,12 +40,6 @@ coding platforms, email etiquette, and cybercrime awareness.
 
 ---
 
-## Google Form Quiz Link
-
-[Click here to take the Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd7cKRtNsEQQ9uV7Fo8QZrolbAxRnlAatb_aeLtkFlZXsQ-Eg/viewform?usp=publish-editor)
-
----
-
 ## Repository Structure
 
 ```
