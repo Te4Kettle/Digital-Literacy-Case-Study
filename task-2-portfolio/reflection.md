@@ -4,9 +4,9 @@
 
 | Platform   | Profile URL                              | Purpose                              |
 |------------|------------------------------------------|--------------------------------------|
-| GitHub     | [github.com/SouL-GhosT](https://github.com/Te4Kettle)                  | Code repositories and projects       |
-| LinkedIn   | [linkedin.com/in/sakcham-shaw-5889513ba/](https://www.linkedin.com/in/anadi-rathore-9314563b2/)| Professional networking              |
-| Kaggle     | [kaggle.com/sakcham25mei10005](https://www.kaggle.com/anadirathore)                 | Data science practice and datasets   |
+| GitHub     | [github.com/Te4Kettle](https://github.com/Te4Kettle)                  | Code repositories and projects       |
+| LinkedIn   | [linkedin.com/in/anadi-rathore-9314563b2/](https://www.linkedin.com/in/anadi-rathore-9314563b2/)| Professional networking              |
+| Kaggle     | [kaggle.com/anadirathore](https://www.kaggle.com/anadirathore)                 | Data science practice and datasets   |
 
 ## What I Did on Each Platform
 
